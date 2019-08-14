@@ -11,6 +11,7 @@ import in.jas.com.logforwarder.main.nettyImpl.SimpleTCPServerHandler;
 /**
  *
  * @author sundhar
+ * cat Backup/FrwrdGit.txt | ncat localhost 5055
  */
 
 public class LogForwarder {
